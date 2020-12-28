@@ -1,2 +1,2 @@
-# swiper-js
-swiperjs
+# wafa-swiper-js
+wafa-swiperjs
